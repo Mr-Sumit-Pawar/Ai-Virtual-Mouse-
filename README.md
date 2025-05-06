@@ -42,7 +42,5 @@ Install Dependencies
 
 Use pip to install the required Python packages:
 
-bash
-Copy
-Edit
-pip install opencv-python mediapipe numpy autopy
+
+> pip install opencv-python mediapipe numpy autopy
