@@ -3,7 +3,7 @@
 Control your computer's mouse using **hand gestures** captured by your webcam! This project uses **MediaPipe**, **OpenCV**, and **Autopy** to track your hand in real time and convert movements into mouse actions like moving the cursor and clicking.
 
 <p align="center">
-  <img src="https://www.google.com/imgres?q=hand%20tracking&imgurl=https%3A%2F%2Fwww.manomotion.com%2Fwp-content%2Fuploads%2F2021%2F07%2FHand-tracking-image.png&imgrefurl=https%3A%2F%2Fwww.manomotion.com%2Fmobile-ar%2F&docid=NreKIFhozKgpVM&tbnid=mznZQfuW1vduGM&vet=12ahUKEwjk9YbBvI6NAxXijK8BHV8FDiYQM3oECGYQAA..i&w=1080&h=1080&hcb=2&ved=2ahUKEwjk9YbBvI6NAxXijK8BHV8FDiYQM3oECGYQAA" alt="Hand Gesture Diagram" width="600"/>
+  <img src="" alt="Hand Gesture Diagram" width="600"/>
 </p>
 
 ## 🚀 Features
