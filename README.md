@@ -3,7 +3,7 @@
 Control your computer's mouse using **hand gestures** captured by your webcam! This project uses **MediaPipe**, **OpenCV**, and **Autopy** to track your hand in real time and convert movements into mouse actions like moving the cursor and clicking.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mr-Sumit-Pawar/Ai-Virtual-Mouse-/refs/heads/main/handmarks.jfif" alt="Hand Gesture Diagram" width="600"/>
+  <img src="https://raw.githubusercontent.com/Mr-Sumit-Pawar/Ai-Virtual-Mouse-/refs/heads/main/handmarks.jfif" alt="Hand Gesture Diagram" width="150"/>
 </p>
 
 ## 🚀 Features
